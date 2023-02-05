@@ -1,0 +1,10 @@
+G:\visual\C# projects\numbering system\numbering system\bin\Debug\numbering system.exe.config
+G:\visual\C# projects\numbering system\numbering system\bin\Debug\numbering system.exe
+G:\visual\C# projects\numbering system\numbering system\bin\Debug\numbering system.pdb
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering system.csproj.AssemblyReference.cache
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering_system.Form1.resources
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering_system.Properties.Resources.resources
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering system.csproj.GenerateResource.cache
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering system.csproj.CoreCompileInputs.cache
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering system.exe
+G:\visual\C# projects\numbering system\numbering system\obj\Debug\numbering system.pdb
