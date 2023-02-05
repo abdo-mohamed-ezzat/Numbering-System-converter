@@ -1,0 +1,51 @@
+C:\Users\Administrator\source\repos\numbreing\numbreing\bin\Debug\numbreing.exe.config
+C:\Users\Administrator\source\repos\numbreing\numbreing\bin\Debug\numbreing.exe
+C:\Users\Administrator\source\repos\numbreing\numbreing\bin\Debug\numbreing.pdb
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.Properties.Resources.resources
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.exe
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.pdb
+C:\Users\Administrator\source\repos\numbreing\numbreing\obj\Debug\numbreing.Numbring.resources
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.exe.config
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.exe
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.pdb
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.AssemblyReference.cache
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.SuggestedBindingRedirects.cache
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.Numbring.resources
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.Properties.Resources.resources
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.GenerateResource.cache
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.CoreCompileInputs.cache
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.exe
+C:\Users\omar\Desktop\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.pdb
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.exe.config
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.exe
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\bin\Debug\numbreing.pdb
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.Numbring.resources
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.Properties.Resources.resources
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.exe
+C:\Users\Administrator\Downloads\numbreing (1)\numbreing\numbreing\obj\Debug\numbreing.pdb
+C:\Users\Administrator\Desktop\DataProject\numbreing\bin\Debug\numbreing.exe.config
+C:\Users\Administrator\Desktop\DataProject\numbreing\bin\Debug\numbreing.exe
+C:\Users\Administrator\Desktop\DataProject\numbreing\bin\Debug\numbreing.pdb
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.Numbring.resources
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.exe
+C:\Users\Administrator\Desktop\DataProject\numbreing\obj\Debug\numbreing.pdb
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\bin\Debug\numbreing.exe.config
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\bin\Debug\numbreing.exe
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\bin\Debug\numbreing.pdb
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.Numbring.resources
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.Properties.Resources.resources
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.exe
+C:\Users\Administrator\Desktop\collage\term #1\Data Structure\DataProject\numbreing\obj\Debug\numbreing.pdb
